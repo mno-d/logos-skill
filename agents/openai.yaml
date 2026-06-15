@@ -1,0 +1,4 @@
+interface:
+  display_name: "Logos"
+  short_description: "Multi-model or multi-pass synthesis for high-stakes decisions"
+  default_prompt: "Use Logos for independent opinions and a grounded final decision."
